@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Kumar</h1>
 <h3 align="center">A passionate DevOps from India. I work in Corporate IT sector</h3>
 
-<p align="left"> <img  align="Right" width="400"  alt="sahil729" /> </p>
+
 
 - 🔭 I’m currently working on <a href = "https://www.jio.com/business/services/connectivity/cloud-connect" target = "_blank"> Jio Consumer Cloud </a>
 
